@@ -1,0 +1,10 @@
+Lieber Jan-Niklas,
+
+In der Datei README.md findest du die Anweisungen für das Lösen der Aufgabe. 
+
+Bitte löse die einzelnen Punkten auf dem einfachsten Weg. 
+Dabei sollst das bestehende Projekt erweitern und die bereits vorhandenen Strukturen ergänzen. 
+Alle Fragen die vielleicht entstehen versuche selber zu beantworten. 
+
+Viel Erfolg
+Levi
